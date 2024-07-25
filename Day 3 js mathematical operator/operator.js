@@ -4,6 +4,7 @@ let square = number ** 2;
 
 console.log(square);
 
+// Problem 2
 
 // Problem 3
 let x = 10, y = 5;
